@@ -3,6 +3,7 @@
 *.pyo
 *.pyd
 __pycache__/
+source/books.json
 
 # virtual env
 fastapi-venv/
